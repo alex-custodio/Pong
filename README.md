@@ -1,4 +1,5 @@
 # Pong
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original-wordmark.svg" >
 Pong is a popular 2d game that I will remake to improve my Godot skills with game dev. Hope you like it!
 This project is part of the things I learned from  [Clear Code - Learn Godot by creating Pong](https://www.youtube.com/watch?v=kr1BoEbuveI), a really good tutorial that gave me the introduction to Godot Engine. In my project I added some things by myself and made some changes like:
 + Game Over Screen
