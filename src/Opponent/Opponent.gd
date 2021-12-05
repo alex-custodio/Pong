@@ -1,6 +1,6 @@
 extends KinematicBody2D
 
-var speed = 350
+var speed = 450
 var ball 
 
 func _ready():
