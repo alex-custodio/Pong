@@ -14,3 +14,7 @@ func _physics_process(delta):
 		velocity = velocity.bounce(collision_object.normal)
 func stop_ball():
 	speed = 0
+func restart_ball():
+	speed = 600
+	
+
